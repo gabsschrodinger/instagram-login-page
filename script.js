@@ -1,0 +1,1 @@
+alert("This webpage was developed by a programming student during a front-end bootcamp, and it is a visual clone of the Instagram login page. To visit the real Instagram website, access https://www.instagram.com/");
